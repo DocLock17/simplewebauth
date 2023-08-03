@@ -1,0 +1,93 @@
+
+
+/* body {
+    background-image: url("images/parchment.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+} */
+    
+/* .borderexample{
+border-style:solid;
+border-color:#287EC7; 
+} */
+    
+/* .borderexample2{
+border-style:solid;
+border-color:#7413c4; 
+} */
+.myStyle-center{text-align:center!important}
+
+.myStyle-header{
+    text-align:center;
+    border-style:solid;
+    border-color:#000000;
+    border-width: 5px;
+    background-color: #559696;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.myStyle-body{
+    text-align:center;
+    position: fixed;
+    left:0;
+    top: 90px;
+    /* padding-top: 90px; */
+    width: 100%;
+    /* border-width: 5px;
+    border-style:solid;
+    border-color:#000000;
+    #7413c4 
+#9976b6
+#377475
+#b2eaeb
+#438485
+#467575
+#559696  
+#287EC7
+#add8e6
+006d6e
+#005c5e
+2e6263
+185b5c
+*/ 
+}
+
+/* .myStyle-underheader{
+    text-align:center;
+    position: fixed;
+    left:0;
+    top: 90px;
+    width: 100%;
+    /* border-width: 5px;
+    border-style:solid;
+    border-color:#000000;
+} 
+*/
+/* .myStyle-body{ */
+    /* text-align:center; */
+    /* position: relative; */
+    /* padding-top: 70px; */
+    /* padding-bottom: 70px; */
+    /* padding-right: 20px; */
+    /* padding-left: 20px; */
+    /* border-style:solid; */
+    /* border-color:#fffff0; */
+/* } */
+
+.myStyle-footer{
+    text-align:center;
+    padding: 10px;
+    height: 20px;
+    border-style:solid;
+    border-color:#000000;
+    border-width: 5px;
+    background-color: #559696;
+    /* //#559696; */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
